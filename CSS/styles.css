@@ -1,4 +1,4 @@
-@font-face { font-family: handwritten; src: url('Content/Fonts/Handwritten/Handrwritten.ttf') }  
+@font-face { font-family: handwritten; src: url('handwritten.ttf') }  
 
 
 
@@ -21,4 +21,10 @@ body{
 	 margin: auto;
      position: absolute;
      top: 33%; left: 0; bottom: 0; right: 0;
+	
+}
+
+.div-main a{
+	text-decoration: none;
+	color: white;
 }
