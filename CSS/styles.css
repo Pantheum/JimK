@@ -1,4 +1,12 @@
-@font-face { font-family: handwritten; src: url('handwritten.ttf') }  
+@font-face {
+  font-family: 'handwritten';
+  src: url('content/fonts/handwritten/handwritten.oet'); /* IE9 Compat Modes */
+  src: url('content/fonts/handwritten/handwritten.oet#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('out.woff2') format('woff2'), /* Super Modern Browsers */
+       url('content/fonts/handwritten/handwritten.woff') format('woff'), /* Pretty Modern Browsers */
+       url('content/fonts/handwritten/handwritten.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('content/fonts/handwritten/handwritten.svg#svgFontName') format('svg'); /* Legacy iOS */
+} 
 
 
 
