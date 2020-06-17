@@ -1,10 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@font-face {
+  font-family: 'handwritten';
+  src: url('content/fonts/handwritten/handwritten.eot'); /* IE9 Compat Modes */
+  src: url('content/fonts/handwritten/handwritten.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('content/fonts/handwritten/handwritten.woff2') format('woff2'), /* Super Modern Browsers */
+       url('content/fonts/handwritten/handwritten.woff') format('woff'), /* Pretty Modern Browsers */
+       url('content/fonts/handwritten/handwritten.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('content/fonts/handwritten/handwritten.svg#svgFontName') format('svg'); /* Legacy iOS */
+} 
+
 
 
 body{
 	margin: 0;
 	color: white;
-	font-family: 'Permanent Marker', cursive;
+	font-family: handwritten;
 }
 
 
