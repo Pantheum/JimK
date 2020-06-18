@@ -38,6 +38,10 @@ body{
 	padding:10px;
 }
 
+.div-main a:hover{
+	color:lightgray;
+}
+
 .div-main img{
 	border-radius: 50%;
 }
