@@ -35,9 +35,9 @@ body{
 .div-main a{
 	text-decoration: none;
 	color: white;
+	padding:10px;
 }
 
-a{
-	
-	padding:10px;
+.div-main img{
+	border-radius: 50%;
 }
