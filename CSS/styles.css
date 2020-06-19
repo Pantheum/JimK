@@ -39,6 +39,7 @@ body{
 }
 
 .div-main a:hover{
+	cursor: pointer;
 	color:lightgray;
 }
 
