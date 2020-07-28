@@ -46,3 +46,8 @@ body{
 .div-main img{
 	border-radius: 50%;
 }
+
+.div-social{
+    position: absolute;
+    bottom: 0;
+}
