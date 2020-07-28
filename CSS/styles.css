@@ -28,7 +28,7 @@ body{
 .div-main{
 	 margin: auto;
      position: absolute;
-     top: 5%; left: 0; bottom: 0; right: 0;
+     top: 25%; left: 0; bottom: 0; right: 0;
 	
 }
 
@@ -48,6 +48,9 @@ body{
 }
 
 .div-social{
+    right:33%;
+    width:33%;
+    text-align: center;
     position: absolute;
     bottom: 0;
 }
