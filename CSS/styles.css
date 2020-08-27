@@ -15,62 +15,10 @@ body{
 	color: white;
 	font-family: handwritten;
     overflow: hidden;
-}
-
-
-
-.div-body{
-	background-color: black;
-	width: 100%;
-	height:100%;
-	text-align: center;
-}
-
-.div-main{
-	 margin: auto;
-     position: absolute;
-     top: 3%; left: 0; bottom: 0; right: 0;
-	
-}
-
-.div-main a{
-	text-decoration: none;
-	color: white;
-	padding:10px;
-}
-
-.div-main a:hover{
-	cursor: pointer;
-	color:lightgray;
-}
-
-.div-main img{
-	border-radius: 50%;
-}
-
-.video-container {
-    position: relative;
-    padding-bottom: 50%;
-    padding-top: 35px;
-    height: 0;
-    overflow: hidden;
-}
-
-.video-container iframe {
-    position: absolute;
-    top:0;
-    left: 33%;
-    width: 33%;
-    height: 33%;
-    overflow: hidden;
-}
-
-
-
-.div-social{
-    right:33%;
-    width:33%;
+    background-color: black;
     text-align: center;
-    position: absolute;
-    bottom: 0;
+}
+
+h1 {
+    
 }
