@@ -42,9 +42,9 @@ body{
 
 
 .btc{
-    margin-left: 50px;
-    width: 150px;
-    height:150px;
+    margin-left: 15%;
+    width: 100px;
+    height:100px;
     color: black;
     background: rgb(255,235,47);
     background: radial-gradient(circle, rgba(255,235,47,1) 0%, rgba(255,201,0,1) 100%);
@@ -61,11 +61,6 @@ body{
     
 }
 
-.btc h1{
-    padding:25;
-}
-
-
 img{
     max-height: 100%;
     max-width: 100%;
@@ -81,7 +76,7 @@ h1{
 h2{
  margin: 0;
  padding: 0;
- text-decoration: underline;
+
 }
 
 a{
@@ -100,3 +95,28 @@ h4:hover{
     color: white;
     cursor:pointer;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
