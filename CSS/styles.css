@@ -12,7 +12,7 @@
 
 body{
 	margin: 0;
-	color: black;
+	color: white;
 	font-family: handwritten;
     background-image:url(/content/images/texture2.png);
     background-color: #00b7ff;
@@ -21,6 +21,7 @@ body{
 }
 
 .paper{
+    color: black;
     padding:5px;
     background-image: url(/content/images/texture.png);
     width: 33%;
@@ -37,13 +38,13 @@ h1{
 
 a{
     font-size: 75px;
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
 a:hover{
     text-decoration: none;  
-    color:white;
+    color:black;
     
 }
 
