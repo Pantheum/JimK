@@ -19,6 +19,15 @@ body{
     border:none;
 }
 
+.paper{
+    background-image: url(/content/images/texture.png);
+    width: 33%;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    -webkit-box-shadow: 13px 6px 11px -5px #000000; 
+box-shadow: 13px 6px 11px -5px #000000;
+}
+
 h1{
     font-size: 100px;
 }
