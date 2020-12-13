@@ -18,6 +18,7 @@ body{
     background-color: #00b7ff;
     text-align: center;
     border:none;
+    overflow: hidden;
 }
 
 .paper{
@@ -38,11 +39,15 @@ body{
 
 .container {
     float: middle;
+    background-image: url(/content/images/chalkboard.jpg);
+    border: 10px solid  #caa472;
+    margin-top: 50px;
 }
 
 
+
 .btc{
-    margin-left: 15%;
+    float: right;
     width: 100px;
     height:100px;
     color: black;
