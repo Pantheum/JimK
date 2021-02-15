@@ -1,2 +1,0 @@
-# barebonebasics
-creating simplicity
