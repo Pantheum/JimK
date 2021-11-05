@@ -26,7 +26,7 @@
 						<header>
                             
 							<h5>Jim.K</h5>
-							<h1>Are you sure you exist?</h1>
+							<h1 class= "quote" id = "quote"></h1>
 
                             
 						</header>
@@ -48,12 +48,14 @@
 
 		<!-- Scripts -->
 			<!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
+			
 			<script>
 				if ('addEventListener' in window) {
 					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
 					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
 				}
 			</script>
+			<script src="assets/js/scripts.js"></script>
 
 	</body>
 </html>
