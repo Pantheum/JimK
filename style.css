@@ -11,8 +11,8 @@ body{
 }
 
 #userPhoto{
-    width: 110px;
-    height: 110px;
+    width: 200px;
+    height: 200px;
     display: block;
     margin: 35px auto 20px;
     border-radius: 50%;
@@ -31,7 +31,7 @@ body{
 }
 
 #links{
-    max-width: 675px;
+    max-width: 450px;
     width: auto;
     display: block;
     margin: 27px auto;
@@ -48,6 +48,7 @@ body{
     font-size: 1rem;
     transition: all .25s cubic-bezier(.08,.59,.29,.99);
     border: solid var(--accentColor) 2px;
+    border-radius: 3px;
 }
 
 .link:hover{
